@@ -1,7 +1,8 @@
 # Attendance-System-Using-Blockchain
 Attendance System Using Blockchain Code, Document And Video Tutorial
 
-![image](https://github.com/user-attachments/assets/2f267084-56e7-48c8-94c8-910bb8b86e91)
+![ATTENDANCE](https://github.com/user-attachments/assets/3ba26679-1028-4fbf-8ca3-3aab4aaf0191)
+
 
 ## Youtube link: https://youtu.be/wdtI2qsQptc?si=DK36RYI8AWBHc4wk
 
